@@ -1,17 +1,6 @@
 # Repository: FriendRecommendation
 This program tries to mimmic the friend suggestion system. It goes through your friends list, trying to find a friend of a friend that isn't in your friend list already.
 
-## Info
-Author: Randy Le, Alex Ma<br>
-Author's Email: Randy.l5933@csu.fullerton.edu ; alexjmma@csu.fullerton.edu <br>
-
-Language: C++ <br>
-Software: Visual Studio 2015<br>
-Distribution: Windows<br>
-
-Class: CSUF CPSC 131 
-Project Number: 4
-
 
 ## Contents
 1. Graph.cpp
